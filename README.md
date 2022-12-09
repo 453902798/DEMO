@@ -1,4 +1,4 @@
-Added by Gu Yuchen (guyuchen1202@126.com )
+Added by Gu Yuchen et al (guyuchen1202@126.com )
 License: MATLAB
 Version: 2018
 
